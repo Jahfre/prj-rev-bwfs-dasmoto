@@ -1,0 +1,43 @@
+
+#Banner
+h1 {
+  background-image: url("/Users/BCC/Creative Cloud Files/Projects/Dasmoto Arts & Crafts/Images/pattern.jpeg");
+  height:250px;
+  text-align:center;
+  font-family: Helvetica;
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+}
+
+h2 {
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+}
+
+h3{
+  font-family: Helvetica;
+}
+
+#Brushes{
+  background-color:mediumspringgreen;
+}
+
+#Frames{
+  background-color:lightcoral;
+}
+
+#Paint{
+  background-color:skyblue;
+}
+
+.cash{
+  color:blue;
+  font-weight: bold;
+}
+
+p{
+  font-family: Helvetica;
+}
